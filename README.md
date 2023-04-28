@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**chenmaomaoi/chenmaomaoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/chenmaomaoi/chenmaomaoi/raw/main/img/img.jpg"/>
 
-Here are some ideas to get you started:
+你好，我是陈猫猫，打螺丝是工作，写代码是爱好，喜欢猫猫，喵~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🌱 喜欢的语言：C#, C/C++
+  - 🔭 对世界充满好奇~
+
+[![chenmaomaoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenmaomaoi&show_icons=true)](https://github.com/chenmaomaoi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenmaomaoi)](https://github.com/chenmaomaoi)
+
+
+
