@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/chenmaomaoi/chenmaomaoi/raw/main/img/img.png" />
+<img align="right" src="https://github.com/chenmaomaoi/chenmaomaoi/raw/main/img/img.jpg" />
 
 你好，我是陈猫猫，打螺丝是工作，写代码是爱好，喜欢猫猫，喵~
 
